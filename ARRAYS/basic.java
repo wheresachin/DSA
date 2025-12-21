@@ -13,5 +13,6 @@ public class basic {
 
         marks[2] = 100;
         System.out.println("math : " + marks[2]);
+
     }
 }
