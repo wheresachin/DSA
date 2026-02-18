@@ -1,7 +1,7 @@
 public class compare {
     public static void main(String[] args) {
         String s1 = "Sachin";
-        String s2 = "Sachin";
+        // String s2 = "Sachin";
         String s3 = new String ("Sachin");
         // if(s1 == s2){
         //     System.out.println("Strings are equal");
